@@ -1,6 +1,7 @@
 # Express MySql
 
 #deploy heroku
+
 Email : alvilianasucianti@gmail.com
 
 # database on db4free
@@ -8,5 +9,7 @@ Email : alvilianasucianti@gmail.com
 Username: Alviliana22
 
 email: alvilianasucianti@gmail.com
-password: Vya22Feb1994
+
+password: ''
+
 Database: jc8expressmysql2
