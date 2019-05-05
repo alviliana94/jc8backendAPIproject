@@ -88,7 +88,7 @@ router.get('/avatar', (req,res) => {
   conn.query(sql, data, (err,result) => {
     if(err) return res.send(err)
 
-    res.send({users:result[0], photo:`http://localhost:2010/avatar/${result[0].avatar}`})
+    res.send({users:result[0], photo:`https://jc8expressmysql2.herokuapp.com/avatar/${result[0].avatar}`})
   })
 })
 
